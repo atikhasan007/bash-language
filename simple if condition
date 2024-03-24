@@ -3,3 +3,10 @@ then
     echo "The condition is true."
 fi
 
+
+
+//condition statement 
+-eq
+-ne
+-gt
+used if,else,fi
